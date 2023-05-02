@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "mis-221-pa-5-Rshunter310/1.0.0": {
+        "runtime": {
+          "mis-221-pa-5-Rshunter310.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mis-221-pa-5-Rshunter310/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

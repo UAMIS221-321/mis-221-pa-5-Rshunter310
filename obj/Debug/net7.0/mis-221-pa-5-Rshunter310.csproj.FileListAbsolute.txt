@@ -1,0 +1,15 @@
+/Users/simshunter/Desktop/PAMaster/mis-221-pa-5-Rshunter310/obj/Debug/net7.0/mis-221-pa-5-Rshunter310.csproj.AssemblyReference.cache
+/Users/simshunter/Desktop/PAMaster/mis-221-pa-5-Rshunter310/obj/Debug/net7.0/mis-221-pa-5-Rshunter310.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simshunter/Desktop/PAMaster/mis-221-pa-5-Rshunter310/obj/Debug/net7.0/mis-221-pa-5-Rshunter310.AssemblyInfoInputs.cache
+/Users/simshunter/Desktop/PAMaster/mis-221-pa-5-Rshunter310/obj/Debug/net7.0/mis-221-pa-5-Rshunter310.AssemblyInfo.cs
+/Users/simshunter/Desktop/PAMaster/mis-221-pa-5-Rshunter310/obj/Debug/net7.0/mis-221-pa-5-Rshunter310.csproj.CoreCompileInputs.cache
+/Users/simshunter/Desktop/PAMaster/mis-221-pa-5-Rshunter310/bin/Debug/net7.0/mis-221-pa-5-Rshunter310
+/Users/simshunter/Desktop/PAMaster/mis-221-pa-5-Rshunter310/bin/Debug/net7.0/mis-221-pa-5-Rshunter310.deps.json
+/Users/simshunter/Desktop/PAMaster/mis-221-pa-5-Rshunter310/bin/Debug/net7.0/mis-221-pa-5-Rshunter310.runtimeconfig.json
+/Users/simshunter/Desktop/PAMaster/mis-221-pa-5-Rshunter310/bin/Debug/net7.0/mis-221-pa-5-Rshunter310.dll
+/Users/simshunter/Desktop/PAMaster/mis-221-pa-5-Rshunter310/bin/Debug/net7.0/mis-221-pa-5-Rshunter310.pdb
+/Users/simshunter/Desktop/PAMaster/mis-221-pa-5-Rshunter310/obj/Debug/net7.0/mis-221-pa-5-Rshunter310.dll
+/Users/simshunter/Desktop/PAMaster/mis-221-pa-5-Rshunter310/obj/Debug/net7.0/refint/mis-221-pa-5-Rshunter310.dll
+/Users/simshunter/Desktop/PAMaster/mis-221-pa-5-Rshunter310/obj/Debug/net7.0/mis-221-pa-5-Rshunter310.pdb
+/Users/simshunter/Desktop/PAMaster/mis-221-pa-5-Rshunter310/obj/Debug/net7.0/mis-221-pa-5-Rshunter310.genruntimeconfig.cache
+/Users/simshunter/Desktop/PAMaster/mis-221-pa-5-Rshunter310/obj/Debug/net7.0/ref/mis-221-pa-5-Rshunter310.dll
